@@ -59,6 +59,4 @@ tem_os_dois = tem_cafe and tem_cha
 
 
 
-
-
 print(tem_os_dois)
