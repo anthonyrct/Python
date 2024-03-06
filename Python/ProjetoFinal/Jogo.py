@@ -55,6 +55,7 @@ def play_game():
 
     if score == 5:  # Se o jogador acertar todas as 5 perguntas, exibe a mensagem de vitória
         print("\nParabéns! Você acertou todas as perguntas e ganhou o jogo!")
+        
 
 # Iniciar o jogo
 if __name__ == "__main__":
